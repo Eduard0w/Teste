@@ -44,8 +44,8 @@ public class Joia_tempo {
 
 //String resultado ="NAO SIM NAO";
 //String[] split = resultado.split(" "); //o que foi expecificado eh
-////o que sera retirado da String. O reso sera dividido em partes do array
-////nesse exemplo acima o split esta tirando o espacamento e colocando
+////o que sera retirado da String. O resto sera dividido em partes do array
+////nesse exemplo acima o split esta tirando o espaçamento e colocando
 ////apenas as palavras inteiras dentro de cada posicao do ARRAY.
 ////Como vai ficar no ARRAY -> ["NAO", "SIM", "NAO"]
 //
